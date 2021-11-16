@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\musak\\source\\repos\\queue\\queue\\queue.csproj",
+      "projectUniqueName": "C:\\Users\\musak\\Documents\\GitHub\\queue\\queue\\queue\\queue.csproj",
       "projectName": "queue",
-      "projectPath": "C:\\Users\\musak\\source\\repos\\queue\\queue\\queue.csproj",
+      "projectPath": "C:\\Users\\musak\\Documents\\GitHub\\queue\\queue\\queue\\queue.csproj",
       "packagesPath": "C:\\Users\\musak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\musak\\source\\repos\\queue\\queue\\obj\\",
+      "outputPath": "C:\\Users\\musak\\Documents\\GitHub\\queue\\queue\\queue\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\musak\\AppData\\Roaming\\NuGet\\NuGet.Config",
